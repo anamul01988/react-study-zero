@@ -1,0 +1,26 @@
+.header img{
+    height:auto;
+    margin-left:20px;
+    margin-right: 40px;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    display:flex;
+    line-height: 50px;
+}
+.header nav{
+    font-size: 20px;
+    line-height: 60px;
+}
+.header nav a {
+    text-decoration: none;
+    color: blanchedalmond;
+    margin-right:20px;
+    padding:5px;
+    margin-left:20px;
+
+}
+nav a:hover{
+    background-color: gray;
+}
